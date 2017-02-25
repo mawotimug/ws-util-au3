@@ -1,2 +1,4 @@
 # ws-util-au3
-wikisource utils in autoit
+=============
+
+Wikisource utils in Autoit. Didn't try it. Moved to other languages.
